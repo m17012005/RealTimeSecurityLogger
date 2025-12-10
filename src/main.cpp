@@ -23,7 +23,7 @@ int main() {
     EventParser parser;
 
     cout << "=== Simple Real-Time OS Security Logger ===\n";
-
+    cout << "Program started\n";
     string previous = "";
 
     while (true) {
